@@ -9,14 +9,12 @@ Dataset III: https://www.kaggle.com/xainano/handwrittenmathsymbols
 ![image](https://user-images.githubusercontent.com/37670947/124733858-68897900-df36-11eb-86ab-a3b5efd3d0f3.png)
 
 The result: 
-Dataset	Training Accuracy	Validation Accuracy	Test Accuracy
-Dataset I	99.60%	98.81%	98.71%
-Dataset II	99.13%	99.41%	99.01%
-Dataset III	99.71%	99.91%	99.85%
 
-| Dataset  | Training Accuracy | | Validation Accuracy | |Test Accuracy|
-| ------------- | ------------- | | ------------- | | ------------- |
-| Dataset I |	| 99.60% | | 98.81% | | 98.71% |
+| Dataset | Training Accuracy | Validation Accuracy | Test Accuracy |
+| ------------- | ------------- | ------------- | ------------- |
+| Dataset I | 99.60% | 98.81% | 98.71% |
+| Dataset I | 99.13% | 99.41% | 99.01% |
+| Dataset I | 99.71% | 99.91% | 99.85% |
 
 ![image](https://user-images.githubusercontent.com/37670947/124734019-8f47af80-df36-11eb-8a5a-ed14c7a2fe80.png)
 
