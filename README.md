@@ -14,6 +14,10 @@ Dataset I	99.60%	98.81%	98.71%
 Dataset II	99.13%	99.41%	99.01%
 Dataset III	99.71%	99.91%	99.85%
 
+| Dataset  | Training Accuracy | | Validation Accuracy | |Test Accuracy|
+| ------------- | ------------- | | ------------- | | ------------- |
+| Dataset I |	| 99.60% | | 98.81% | | 98.71% |
+
 ![image](https://user-images.githubusercontent.com/37670947/124734019-8f47af80-df36-11eb-8a5a-ed14c7a2fe80.png)
 
 
