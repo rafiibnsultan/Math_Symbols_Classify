@@ -21,5 +21,6 @@ The result:
 
 Further, we also analyzed the performance of the model based on F1-accuracy. The three respective F1 accuracies of the three datasets are 0.99, 0.99, 1.00 and the average F1 accuracy we achieved was 0.99. 
 
-This is a work in progress, don't use any of this without permission.
+This work has been published here: https://iceeict2021mist.org/
+The work is yet to feature in IEEE Xplore. Will be available soon.
 Thank you.
